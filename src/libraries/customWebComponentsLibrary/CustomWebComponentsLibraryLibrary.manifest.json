@@ -1,0 +1,9 @@
+{
+  "id": "29a2b638-6fdf-4b76-872c-158be07e957d",
+  "alias": "CustomWebComponentsLibraryLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
