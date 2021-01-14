@@ -1,4 +1,4 @@
-# custom-valo-webcomponents
+# valo-intranet-webcomponent-attendeelist
 
 ## Summary
 
